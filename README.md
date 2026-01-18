@@ -1,6 +1,6 @@
 # Bot-Buster
 
-Mission: This project will allow me to understand bot behavior. My website is protected by Cloudflare. **The goal is to analyse bot signals that remain What after Cloudflare lets them through.**
+Mission: This project will allow me to understand bot behavior. My website is protected by Cloudflare. <code style="color : darkorange">**The goal is to analyse bot signals that remain after Cloudflare lets them through.**</code>
 
 To Do:
 
