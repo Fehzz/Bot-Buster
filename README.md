@@ -4,11 +4,11 @@ Mission: This project will allow me to understand bot behavior. My website is pr
 
 # Architecture:
 
-Domain: 0049971.xyz (Cloudflare-proxied)
-Backend: FastAPI (Python) on port 8000
-Frontend: Custom bot detection dashboard
-Database: SQLite storing fingerprints and interaction data
-Web Server: Nginx reverse proxy
+- Domain: 0049971.xyz (Cloudflare-proxied)
+- Backend: FastAPI (Python) on port 8000
+- Frontend: Custom bot detection dashboard
+- Database: SQLite storing fingerprints and interaction data
+- Web Server: Nginx reverse proxy
 
 # To Do:
 
