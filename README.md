@@ -2,7 +2,15 @@
 
 Mission: This project will allow me to understand bot behavior. My website is protected by Cloudflare. <code style="color : darkorange">**The goal is to analyse bot signals that remain after Cloudflare lets them through.**</code>
 
-To Do:
+# Architecture:
+
+Domain: 0049971.xyz (Cloudflare-proxied)
+Backend: FastAPI (Python) on port 8000
+Frontend: Custom bot detection dashboard
+Database: SQLite storing fingerprints and interaction data
+Web Server: Nginx reverse proxy
+
+# To Do:
 
 1) Purchase and test Bot Challenge and CAPTCHA bypass tools.
 
